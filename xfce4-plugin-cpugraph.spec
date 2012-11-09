@@ -2,12 +2,12 @@
 
 Summary:	Displays a graph from your latest system load
 Name:		xfce4-plugin-cpugraph
-Version:	1.0.2
+Version:	1.0.5
 Release:	1
 License:	BSD
 Group:		X11/Applications
 Source0:	http://archive.xfce.org/src/panel-plugins/xfce4-cpugraph-plugin/1.0/%{rname}-%{version}.tar.bz2
-# Source0-md5:	93d7658d989ebf110875bc2deb76d7b3
+# Source0-md5:	f0ebfabb273adf69361b37a3fa4b7912
 URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-cpugraph-plugin
 BuildRequires:	autoconf
 BuildRequires:	automake
